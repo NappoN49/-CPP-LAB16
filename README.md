@@ -1,2 +1,2 @@
-# NAME: Parain Pitaleemaporn
+# NAME: Parawin Pitaleemaporn
 # STUDENT ID: 680610695
